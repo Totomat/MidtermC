@@ -10,4 +10,6 @@ package midtermexam_versiona_extensioncode;
  */
 public class AdrianNastase {
     //Hello here is a comment
+    
+    //Question 5, more comments here!
 }
